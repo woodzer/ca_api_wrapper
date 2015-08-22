@@ -1,0 +1,5 @@
+loggers:
+  - default: true
+    file: ./logs/test.log
+    name: main
+    rotation: daily
