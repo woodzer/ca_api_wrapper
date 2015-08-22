@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["pwood@blacknorth.com"]
   spec.summary       = %q{Ruby wrapper library for the Cryptic Archive REST API.}
   spec.description   = %q{This library provides wrapper functionality for interacting with the Cryptic Archive REST API, removing the need to directly interact via a HTTP library.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/woodzer/ca_api_wrapper"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
